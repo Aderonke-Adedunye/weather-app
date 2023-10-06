@@ -71,9 +71,7 @@ h1.temp {
 }
 
 .weather.loading {
-  visibility: hidden;
-  max-height: 20px;
-  position: relative;
+  color: white;
 }
 
 .weather.loading:after {
